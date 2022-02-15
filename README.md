@@ -18,3 +18,9 @@
 -- Este repositório contém o sistema para gerenciamento de assistências técnicas AsAid (Assistance Aid);
 <br/>
 -- This repository contains the system for managing technical assistance AsAid (Assistance Aid);
+
+<b> loginAndRegistration </b>: https://github.com/gutoso/loginAndRegistration
+<br/>
+-- Este repositório contém um formulário responsivo de login e cadastro e diversos aspectos característicos;
+<br/>
+-- This repository contains a responsive login and registration and several characteristic features;
